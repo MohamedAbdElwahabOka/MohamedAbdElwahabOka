@@ -1,4 +1,4 @@
-<img src="Desktop">
+<img src="file:///C:/Users/mohamed/Desktop/dino.gif">
 <h1 align="center">Hi 👋, I'm Mohamed AbdElwahab</h1>
 <h3 align="center">A full stack developer from Egypt</h3>
 
