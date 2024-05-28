@@ -44,12 +44,4 @@ src="https://img.shields.io/twitter/follow/Mohamed_Abdo321?logo=twitter&style=fo
 
 <a href="http://www.github.com/MohamedAbdElwahabOka"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohamedAbdElwahabOka's GitHub stats" /></a>
 
-<a href="http://www.github.com/MohamedAbdElwahabOka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdElwahabOka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/MohamedAbdElwahabOka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohamedAbdElwahabOka&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabdelwahaboka&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mohamedabdelwahaboka" /></p>
- 
-
-<img src="https://raw.githubusercontent.com/MohamedAbdElwahabOka/MohamedAbdElwahabOka/output/snake.svg" alt="Snake animation" />
-
-###
