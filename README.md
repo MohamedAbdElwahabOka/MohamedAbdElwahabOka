@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/Mohamed_Abdo321?logo=twitter&style=fo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mohamed_abd-elwahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed_abd-elwahab" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamed_abdo321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_abdo321" height="30" width="40" /></a>
+<a href="https://x.com/Mohamed_Abdo321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_abdo321" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-abd-elwahab-oka-071166221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abd-elwahab-oka-07116622" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17627690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17627690" height="30" width="40" /></a>
 <a href="https://fb.com/100010158949494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010158949494" height="30" width="40" /></a>
@@ -39,6 +39,8 @@ src="https://img.shields.io/twitter/follow/Mohamed_Abdo321?logo=twitter&style=fo
 ### Badges
 
 <b>My GitHub Stats</b>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedAbdElwahabOka&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/MohamedAbdElwahabOka"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohamedAbdElwahabOka's GitHub stats" /></a>
 
