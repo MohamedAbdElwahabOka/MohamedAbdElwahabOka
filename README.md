@@ -43,5 +43,8 @@ src="https://img.shields.io/twitter/follow/Mohamed_Abdo321?logo=twitter&style=fo
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohamedAbdElwahabOka&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/MohamedAbdElwahabOka"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohamedAbdElwahabOka's GitHub stats" /></a>
+<a href="http://abdotolba-cv.web.app/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
 
 
