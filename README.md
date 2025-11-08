@@ -96,9 +96,7 @@
 
 ### ☕ Support  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mohamedoka">
-    <img src="https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-6bd6ad?style=for-the-badge" />
-  </a>
+  <a href="https://www.buymeacoffee.com/mohamedoka"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
 ---
