@@ -1,39 +1,35 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Mohamed AbdElwahab</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Passionate about building impactful web solutions</h3>
+<!-- Header Section -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#6bd6ad;">Mohamed AbdElwahab</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Turning ideas into reality</h3>
 
 <p align="center">
-  <a href="https://github.com/MohamedAbdElwahabOka">
-    <img src="https://komarev.com/ghpvc/?username=MohamedAbdElwahabOka&label=Profile%20views&color=6bd6ad&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://twitter.com/Mohamed_Abdo321">
-    <img src="https://img.shields.io/twitter/follow/Mohamed_Abdo321?logo=twitter&style=flat&color=1DA1F2" />
-  </a>
-  <a href="https://github.com/MohamedAbdElwahabOka">
-    <img src="https://img.shields.io/github/followers/MohamedAbdElwahabOka?logo=github&style=flat&color=0891b2" />
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="https://komarev.com/ghpvc/?username=MohamedAbdElwahabOka&label=Profile%20views&color=6bd6ad&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
 ### 🧠 About Me  
-- 🌱 Currently learning **React & Next.js**  
-- 👨‍💻 All my projects are available on my [Portfolio Website](https://mohamedabdelwahaboka.github.io/Portfolio/)  
-- 💬 Ask me about **JavaScript, React, Node.js, Python, Java, and Spring Boot**  
-- 📫 Reach me at **mohamedabdelwahabelazab@gmail.com**  
-- ⚡ Fun fact: I love solving problems and bringing creative ideas to life  
+💡 Passionate about technology, innovation, and clean code.  
+🌱 Currently learning **Next.js & TypeScript**  
+💬 Ask me about **React, Node.js, Spring Boot, or Python**  
+🎯 Focused on creating scalable full-stack web apps.  
+📫 Reach me at **mohamedabdelwahabelazab@gmail.com**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-abd-elwahab-oka-071166221"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/Mohamed_Abdo321"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://stackoverflow.com/users/17627690"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-  <a href="https://codepen.io/mohamed_abd-elwahab"><img src="https://skillicons.dev/icons?i=codepen" height="40"/></a>
+  <a href="https://linkedin.com/in/mohamed-abd-elwahab-oka-071166221"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://x.com/Mohamed_Abdo321"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://stackoverflow.com/users/17627690"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/></a>
+  <a href="https://codepen.io/mohamed_abd-elwahab"><img src="https://skillicons.dev/icons?i=codepen" height="45"/></a>
   <a href="https://codeforces.com/profile/mohamed_abdelwahab_oka"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white" height="30"/></a>
-  <a href="https://fb.com/100010158949494"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://www.youtube.com/c/كوكتيل-kokteal"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+  <a href="https://www.youtube.com/c/كوكتيل-kokteal"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
 </p>
 
 ---
@@ -45,54 +41,56 @@
 
 ---
 
-### 🏆 Achievements & Highlights  
+### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdElwahabOka&theme=algolia&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdElwahabOka&theme=algolia&margin-w=10&no-frame=true" alt="trophies" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects  
-
 #### 🩺 Deep Learning Approach for Predictive Modelling in Healthcare  
-- Built a telemedicine system with AI models for medical image analysis.  
+- Developed AI-powered telemedicine platform.  
 - **Tech:** Python, Flutter, Flask, Next.js, Node.js, PostgreSQL, TensorFlow  
-- 🏅 Funded by ITIDA and graded **A+**
+- 🏅 Funded by ITIDA — Grade: A+  
+- 🔗 [Live Demo](#) | [GitHub Repo](#)
 
 #### 📱 CaseCobra  
-- Custom phone case design platform with Stripe payment integration.  
+- Custom phone case design platform with Stripe integration.  
 - **Tech:** TypeScript, Next.js, NeonDB, UploadThing  
 - 🔗 [Live Demo](https://casecobra-bay.vercel.app/) | [GitHub Repo](https://github.com/MohamedAbdElwahabOka/casecobra)
 
-#### 📚 Library Management System RESTful API  
-- RESTful API to manage books, patrons, and borrowing records.  
-- **Tech:** Java, Spring Boot, PostgreSQL, Hibernate  
+#### 📚 Library Management System  
+- RESTful API to manage books, patrons, and borrow records.  
+- **Tech:** Java, Spring Boot, PostgreSQL  
 - 🔗 [GitHub Repo](https://github.com/MohamedAbdElwahabOka/Library-Management-System-RESTful-API)
 
-#### 🌐 Social Media RESTful API  
-- API with JWT auth, real-time messaging, and user features.  
-- **Tech:** Node.js, Express, MongoDB  
-- 🔗 [GitHub Repo](https://github.com/MohamedAbdElwahabOka/Social-Media-REST-API)
+---
+
+### 🧩 Certificates  
+📜 [Supervised Machine Learning – Coursera](https://www.coursera.org/account/accomplishments/verify/S4P2X5RZ2CU6)  
+🎓 Internet of Things (NTI)  
+🔍 Software Testing Fundamentals (ITI)  
+🏅 Five Academic Excellence Awards  
 
 ---
 
-### 📜 Certificates  
-- 🧠 [Supervised Machine Learning (Coursera)](https://www.coursera.org/account/accomplishments/verify/S4P2X5RZ2CU6)  
-- 💡 Internet of Things (NTI)  
-- 🧩 Software Testing Fundamentals (ITI)  
-- 🎓 Five-time Academic Excellence Award  
-
----
-
-### 📊 GitHub Stats  
+### 📈 GitHub Stats  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&layout=compact&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAbdElwahabOka&theme=react&hide_border=true&background=1c1917" />
+</p>
+
+---
+
+### 🎬 Fun Animation  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -103,4 +101,5 @@
 </p>
 
 ---
-⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
+
+⭐ _“Code is like humor. When you have to explain it, it’s bad.”_  
