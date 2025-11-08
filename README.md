@@ -1,18 +1,22 @@
 <!-- Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6bd6ad&center=true&vCenter=true&width=500&lines=👋+Hey+there!+I'm+Mohamed+AbdElwahab;💻+Full+Stack+Developer+from+Egypt;🚀+I+Love+Building+Creative+Web+Apps" alt="Typing Animation" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=27&pause=1000&color=6BD6AD&center=true&vCenter=true&width=480&lines=👋+Hey+there!+I'm+Mohamed+AbdElwahab;💻+Full+Stack+Developer;🌍+From+Egypt;🚀+Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</h1>
 
----
-
-<!-- Animated background gif -->
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="coding gif" />
+  <img src="https://github.com/JesperKarlsson10/JesperKarlsson10/raw/main/assets/header-gradient.gif" width="100%" height="2" />
 </p>
 
 ---
 
-### 🧠 About Me  
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding Animation" />
+</p>
+
+---
+
+### 🧠 About Me
 💡 Passionate about innovation & clean architecture  
 🌱 Currently mastering **Next.js + TypeScript**  
 💬 Ask me about **React, Node.js, Spring Boot, or AI Projects**  
@@ -21,8 +25,8 @@
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center" style="animation: fadeIn 1s ease-in-out;">
+### 🌐 Connect With Me
+<p align="center">
   <a href="https://linkedin.com/in/mohamed-abd-elwahab-oka-071166221"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://x.com/Mohamed_Abdo321"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
   <a href="https://stackoverflow.com/users/17627690"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/></a>
@@ -33,53 +37,97 @@
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nextjs,nodejs,express,php,java,spring,python,cpp,cs,mysql,postgres,mongodb,git,linux,figma,ps,ai" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🏅 Skill Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React,%20Next.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js,%20SpringBoot-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL,%20MongoDB-orange?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel,%20Render-lightgrey?style=for-the-badge&logo=vercel" />
+</p>
 
-#### 🩺 Deep Learning Approach for Predictive Modelling in Healthcare  
-> 🧠 AI-based telemedicine platform for image diagnosis.  
+---
+
+### 🚀 Featured Projects
+#### 🩺 Deep Learning Approach for Predictive Modelling in Healthcare
+> 🧠 AI-based telemedicine platform for medical image analysis.  
 > 💻 **Tech:** Python, Flutter, Flask, Next.js, PostgreSQL, TensorFlow  
 > 🏅 Funded by ITIDA — Grade: A+  
 > 🔗 [Live Demo](#) | [GitHub Repo](#)
 
-#### 📱 CaseCobra  
+#### 📱 CaseCobra
 > 🛒 Custom phone case design + Stripe integration.  
 > 💻 **Tech:** TypeScript, Next.js, NeonDB, UploadThing  
 > 🔗 [Live Demo](https://casecobra-bay.vercel.app/) | [GitHub Repo](https://github.com/MohamedAbdElwahabOka/casecobra)
 
-#### 📚 Library Management System  
+#### 📚 Library Management System
 > 📖 RESTful API for managing books and borrowings.  
 > 💻 **Tech:** Java, Spring Boot, PostgreSQL  
 > 🔗 [GitHub Repo](https://github.com/MohamedAbdElwahabOka/Library-Management-System-RESTful-API)
 
 ---
 
-### 🏆 GitHub Highlights  
+### 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/MohamedAbdElwahabOka/casecobra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAbdElwahabOka&repo=casecobra&theme=react&bg_color=1c1917&hide_border=true" />
+  </a>
+  <a href="https://github.com/MohamedAbdElwahabOka/Library-Management-System-RESTful-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedAbdElwahabOka&repo=Library-Management-System-RESTful-API&theme=react&bg_color=1c1917&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Highlights
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdElwahabOka&theme=algolia&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&layout=compact&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
-</p>
+### 📊 GitHub Stats
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=react&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true" />
+</picture>
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&layout=compact&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAbdElwahabOka&theme=react&hide_border=true&background=1c1917" />
 </p>
 
 ---
 
-### 🧩 Certificates  
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAbdElwahabOka&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 🌍 Global Visitors
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=MohamedAbdElwahabOka&label=Global%20Visitors&countColor=%236BD6AD&style=flat-square" />
+</p>
+
+---
+
+### 🧩 Certificates
 - 🎓 [Supervised Machine Learning (Coursera)](https://www.coursera.org/account/accomplishments/verify/S4P2X5RZ2CU6)  
 - 🧠 Internet of Things (NTI)  
 - 🧩 Software Testing Fundamentals (ITI)  
@@ -87,9 +135,9 @@
 
 ---
 
-### 🐍 Contribution Snake  
+### 💬 Random Developer Quote
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
@@ -110,7 +158,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding" />
 </p>
 
 <h3 align="center">⭐ “Code is like humor — when you have to explain it, it’s bad.”</h3>
