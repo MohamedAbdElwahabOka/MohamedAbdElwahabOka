@@ -1,0 +1,39 @@
+name: Daily Profile Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # كل يوم الساعة 12 بليل
+  workflow_dispatch: # عشان تجرب تشغله دلوقتي
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    name: Update Quote & WakaTime
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # 1. تحديث المقولة
+      - name: Update Daily Quote
+        run: node scripts/update-quote.js
+
+      # 2. تحديث WakaTime
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka # ده عشان يدور على التاج اللي احنا حطيناه
+          BLOCKS: ⣀⣄⣤⣦⣶⣷
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          
+      # 3. حفظ التغييرات
+      - name: Commit & Push
+        run: |
+          git config user.name "Mohamed Abdelwahab"
+          git config user.email "mohamedabdelwahabelazab@gmail.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update daily stats & quote" && git push)
