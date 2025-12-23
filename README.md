@@ -6,7 +6,11 @@
 
 
 <!-- QUOTE:START -->
+<<<<<<< Updated upstream
 <h3 align="center" style="color:#c084fc">
+=======
+<h3 align="center" style="color:#61dafb">
+>>>>>>> Stashed changes
 ⭐ Make it work, then make it better. – Kent Beck
 <br/><sub>Tuesday Motivation</sub>
 </h3>
