@@ -119,6 +119,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif"/>
 </p>
+
 <!-- QUOTE:START -->
-<h3 align="center">⭐ “Code is like humor — when you have to explain it, it’s bad.”</h3>
+<h3 align="center">⭐ “Fix the cause, not the symptom.” – Steve Maguire</h3>
 <!-- QUOTE:END -->
+
