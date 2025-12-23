@@ -125,6 +125,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif"/>
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
