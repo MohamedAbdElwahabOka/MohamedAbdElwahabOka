@@ -3,7 +3,7 @@ name: Daily Profile Update
 on:
   schedule:
     - cron: "0 0 * * *" # كل يوم الساعة 12 بليل
-  workflow_dispatch: # عشان تجرب تشغله دلوقتي
+  workflow_dispatch:
 
 jobs:
   update-content:
@@ -13,30 +13,45 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # 🔴 مهم علشان rebase يشتغل صح
 
-      # 1. تحديث المقولة
+      # 🔴 Node لازم يتظبط صراحة
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      # 1️⃣ تحديث المقولة (كوت + لون + log)
       - name: Update Daily Quote
         run: node scripts/update-quote.js
 
-      # 2. تحديث WakaTime
+      # 2️⃣ تحديث WakaTime
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
           SHOW_TITLE: true
-          SECTION_NAME: waka # ده عشان يدور على التاج اللي احنا حطيناه
           BLOCKS: ⣀⣄⣤⣦⣶⣷
           TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: true
 
-      
-      # 3. حفظ التغييرات
+      # 3️⃣ Commit & Push (ملفات إضافية)
       - name: Commit & Push
         run: |
           git config user.name "Mohamed Abdelwahab"
           git config user.email "mohamedabdelwahabelazab@gmail.com"
-          # الخطوة دي مهمة: بنسحب أي تغييرات حصلت عشان منعملش Conflict
+
           git pull origin main --rebase --autostash
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update daily stats & quote" && git push)
+
+          # 🔴 مهم: مش README بس
+          git add README.md data/*.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update daily quote & wakatime stats"
+            git push
+          else
+            echo "No changes to commit"
+          fi

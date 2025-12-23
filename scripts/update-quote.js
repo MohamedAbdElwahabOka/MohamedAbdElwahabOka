@@ -1,41 +1,62 @@
 const fs = require("fs");
 const path = require("path");
 
-const quotes = [
-    "“First, solve the problem. Then, write the code.” – John Johnson",
-    "“Experience is the name everyone gives to their mistakes.” – Oscar Wilde",
-    "“Java is to JavaScript what car is to Carpet.” – Chris Heilmann",
-    "“Code is like humor. When you have to explain it, it’s bad.” – Cory House",
-    "“Fix the cause, not the symptom.” – Steve Maguire",
-    "“Simplicity is the soul of efficiency.” – Austin Freeman",
-    "“Make it work, make it right, make it fast.” – Kent Beck",
-];
+const read = (p, def) => {
+    try { return JSON.parse(fs.readFileSync(p, "utf8")); }
+    catch { return def; }
+};
 
-const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-const readmePath = path.join(__dirname, "..", "README.md");
+const quotesPath = path.join(__dirname, "../data/quotes.json");
+const lastPath = path.join(__dirname, "../data/last-quote.json");
+const logPath = path.join(__dirname, "../data/quote-log.json");
+const readmePath = path.join(__dirname, "../README.md");
 
-let readmeContent = fs.readFileSync(readmePath, "utf8");
+const quotesByDay = read(quotesPath, {});
+const lastQuote = read(lastPath, { quote: "" });
+const log = read(logPath, []);
 
-// تأكد إن التاجز موجودة
-if (
-    !readmeContent.includes("<!-- QUOTE:START -->") ||
-    !readmeContent.includes("<!-- QUOTE:END -->")
-) {
-    console.error("❌ Quote markers not found. Aborting.");
-    process.exit(1);
-}
+const day = new Date().toLocaleDateString("en-US", { weekday: "long" });
+const todayQuotes = quotesByDay[day] || [];
 
-const newQuoteBlock = `
+if (!todayQuotes.length) process.exit(0);
+
+// منع التكرار
+const filtered = todayQuotes.filter(q => q !== lastQuote.quote);
+const selected = filtered.length
+    ? filtered[Math.floor(Math.random() * filtered.length)]
+    : todayQuotes[0];
+
+// ألوان تلقائية
+const colors = ["#6bd6ad", "#61dafb", "#facc15", "#f472b6", "#c084fc"];
+const color = colors[Math.floor(Math.random() * colors.length)];
+
+let readme = fs.readFileSync(readmePath, "utf8");
+
+const newBlock = `
 <!-- QUOTE:START -->
-<h3 align="center">⭐ ${randomQuote}</h3>
+<h3 align="center" style="color:${color}">
+⭐ ${selected}
+<br/><sub>${day} Motivation</sub>
+</h3>
 <!-- QUOTE:END -->
 `;
 
-// Regex يستهدف الجزء بين التاجز فقط
-const quoteRegex = /<!-- QUOTE:START -->[\s\S]*?<!-- QUOTE:END -->/;
+readme = readme.replace(
+    /<!-- QUOTE:START -->[\s\S]*?<!-- QUOTE:END -->/,
+    newBlock
+);
 
-readmeContent = readmeContent.replace(quoteRegex, newQuoteBlock);
+fs.writeFileSync(readmePath, readme);
 
-fs.writeFileSync(readmePath, readmeContent, "utf8");
+// حفظ الحالة
+fs.writeFileSync(lastPath, JSON.stringify({ quote: selected }, null, 2));
 
-console.log("✅ Quote updated:", randomQuote);
+// Log
+log.push({
+    quote: selected,
+    day,
+    date: new Date().toISOString()
+});
+fs.writeFileSync(logPath, JSON.stringify(log, null, 2));
+
+console.log("✅ Quote updated:", selected);
