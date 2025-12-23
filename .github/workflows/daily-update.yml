@@ -41,14 +41,12 @@ jobs:
           git config user.name "Mohamed Abdelwahab"
           git config user.email "mohamedabdelwahabelazab@gmail.com"
 
-          git pull origin main --rebase --autostash
-
-          # 🔴 مهم: مش README بس
           git add README.md data/*.json
 
           if ! git diff --cached --quiet; then
             git commit -m "chore: update daily quote & wakatime stats"
-            git push
+            git push origin main
           else
             echo "No changes to commit"
           fi
+
