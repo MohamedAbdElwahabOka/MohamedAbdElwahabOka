@@ -17,13 +17,6 @@ Python   0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- QUOTE:START -->
-<<<<<<< Updated upstream
-<!-- QUOTE:END -->
-
-
-
-
-=======
 <h3 align="center" style="color:#f472b6">
 ⭐ Make it work, then make it better. – Kent Beck
 <br/><sub>Tuesday Motivation</sub>
@@ -31,7 +24,7 @@ Python   0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- QUOTE:END -->
 
 
->>>>>>> Stashed changes
+
 ---
 
 <p align="center">
