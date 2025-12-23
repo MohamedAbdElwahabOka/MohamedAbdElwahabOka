@@ -15,12 +15,23 @@ Python   0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
+
 <!-- QUOTE:START -->
+<<<<<<< Updated upstream
 <!-- QUOTE:END -->
 
 
 
 
+=======
+<h3 align="center" style="color:#f472b6">
+⭐ Make it work, then make it better. – Kent Beck
+<br/><sub>Tuesday Motivation</sub>
+</h3>
+<!-- QUOTE:END -->
+
+
+>>>>>>> Stashed changes
 ---
 
 <p align="center">
