@@ -18,13 +18,19 @@ Python   0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <<<<<<< Updated upstream
 =======
 
+
 <!-- QUOTE:START -->
+<<<<<<< Updated upstream
 <h3 align="center" style="color:#6bd6ad">
+=======
+<h3 align="center" style="color:#f472b6">
+>>>>>>> Stashed changes
 ⭐ Make it work, then make it better. – Kent Beck
 <br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
 >>>>>>> Stashed changes
+
 
 
 ---
