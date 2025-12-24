@@ -6,10 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
-
-YAML     5 mins          ⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣷⣄   96.41 %
-Python   0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.59 %
+TypeScript   1 hr 43 mins    ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Python       1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+Markdown     54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+JSON         38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+YAML         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+JavaScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
