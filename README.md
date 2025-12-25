@@ -21,16 +21,14 @@ JavaScript   17 mins         █▒░░░░░░░░░░░░░░░
 =======
 
 
+
 <!-- QUOTE:START -->
-<<<<<<< Updated upstream
 <h3 align="center" style="color:#6bd6ad">
-=======
-<h3 align="center" style="color:#f472b6">
->>>>>>> Stashed changes
-⭐ Make it work, then make it better. – Kent Beck
-<br/><sub>Tuesday Motivation</sub>
+⭐ Fix the cause, not the symptom. – Steve Maguire
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 >>>>>>> Stashed changes
 
 
