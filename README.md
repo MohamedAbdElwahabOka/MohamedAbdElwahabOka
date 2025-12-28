@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6bd6ad&center=true&vCenter=true&width=500&lines=👋+Hey+there!+I'm+Mohamed+AbdElwahab;💻+Full+Stack+Developer+from+Egypt;🚀+I+Love+Building+Creative+Web+Apps" alt="Typing Animation" />
 </div>
+### FHIR lives at the API boundary — not in your DB
+### The database does not speak FHIR.The API does
 
 ---
 <!--START_SECTION:waka-->
