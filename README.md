@@ -32,12 +32,14 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
+<h3 align="center" style="color:#facc15">
 ⭐ Fix the cause, not the symptom. – Steve Maguire
 <br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 >>>>>>> Stashed changes
 
