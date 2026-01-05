@@ -34,12 +34,14 @@ TOML         1 min           ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ Fix the cause, not the symptom. – Steve Maguire
-<br/><sub>Thursday Motivation</sub>
+⭐ Start where you are. Use what you have. Do what you can. – Arthur Ashe
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 >>>>>>> Stashed changes
