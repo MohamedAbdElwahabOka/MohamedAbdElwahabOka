@@ -36,12 +36,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Start where you are. Use what you have. Do what you can. – Arthur Ashe
+<h3 align="center" style="color:#c084fc">
+⭐ Mondays are for fresh starts.
 <br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
