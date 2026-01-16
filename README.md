@@ -39,12 +39,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Mondays are for fresh starts.
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Code is like humor. When you have to explain it, it’s bad. – Cory House
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
