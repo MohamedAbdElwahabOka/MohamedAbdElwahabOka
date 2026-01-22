@@ -44,12 +44,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Make it work, then make it better. – Kent Beck
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Fix the cause, not the symptom. – Steve Maguire
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
