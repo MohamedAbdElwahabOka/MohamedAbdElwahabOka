@@ -48,12 +48,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ Experience is the name everyone gives to their mistakes. – Oscar Wilde
-<br/><sub>Sunday Motivation</sub>
+⭐ Start where you are. Use what you have. Do what you can. – Arthur Ashe
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
