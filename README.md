@@ -49,12 +49,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Start where you are. Use what you have. Do what you can. – Arthur Ashe
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Make it work, then make it better. – Kent Beck
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
