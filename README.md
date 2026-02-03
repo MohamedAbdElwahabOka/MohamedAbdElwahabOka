@@ -53,12 +53,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Code is like humor. When you have to explain it, it’s bad. – Cory House
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Make it work, then make it better. – Kent Beck
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
