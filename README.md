@@ -57,12 +57,14 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ First, solve the problem. Then, write the code. – John Johnson
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Experience is the name everyone gives to their mistakes. – Oscar Wilde
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
