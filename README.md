@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6bd6ad&center=true&vCenter=true&width=500&lines=👋+Hey+there!+I'm+Mohamed+AbdElwahab;💻+Full+Stack+Developer+from+Egypt;🚀+I+Love+Building+Creative+Web+Apps" alt="Typing Animation" />
 </div>
-### FHIR lives at the API boundary — not in your DB
-### The database does not speak FHIR.The API does
+###FHIR lives at the API boundary — not in your DB
+###The database does not speak FHIR.The API does
 
 ---
 <!--START_SECTION:waka-->
@@ -33,81 +33,12 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<<<<<<< Updated upstream
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
 ⭐ Mondays are for fresh starts.
 <br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> Stashed changes
-
-
-
----
 
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="coding gif" />
