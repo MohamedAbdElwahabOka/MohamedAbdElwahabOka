@@ -105,7 +105,7 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 ### 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdElwahabOka&theme=algolia&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdElwahabOka&amp;theme=algolia&amp;margin-w=10&amp;no-frame=true&amp;v=1" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -113,8 +113,8 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&layout=compact&theme=react&hide_border=true&bg_color=1c1917&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1c1917&amp;text_color=ffffff&amp;v=1" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1c1917&amp;text_color=ffffff&amp;v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
