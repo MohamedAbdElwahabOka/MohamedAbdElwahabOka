@@ -33,12 +33,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Mondays are for fresh starts.
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Make it work, then make it better. – Kent Beck
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="coding gif" />
