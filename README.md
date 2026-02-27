@@ -35,12 +35,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Simplicity is the soul of efficiency. – Austin Freeman
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Every day is a gift. – Unknown
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 

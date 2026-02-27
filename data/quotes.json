@@ -1,24 +1,58 @@
 {
   "Monday": [
     "Start where you are. Use what you have. Do what you can. – Arthur Ashe",
-    "Mondays are for fresh starts."
+    "Mondays are for fresh starts.",
+    "The secret of getting ahead is getting started. – Mark Twain",
+    "Your Monday morning thoughts set the tone for your whole week.",
+    "The best way to get started is to quit talking and begin doing. – Walt Disney",
+    "Amateurs sit and wait for inspiration, the rest of us just get up and go to work. – Stephen King"
   ],
   "Tuesday": [
-    "Make it work, then make it better. – Kent Beck"
+    "Make it work, then make it better. – Kent Beck",
+    "The only way to do great work is to love what you do. – Steve Jobs",
+    "Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill",
+    "Focus on being productive instead of busy.",
+    "Tuesday is the day to remember that you can handle whatever this week throws at you.",
+    "Done is better than perfect. – Sheryl Sandberg"
   ],
   "Wednesday": [
-    "Simplicity is the soul of efficiency. – Austin Freeman"
+    "Simplicity is the soul of efficiency. – Austin Freeman",
+    "Innovation distinguishes between a leader and a follower. – Steve Jobs",
+    "The way to get started is to quit talking and begin doing. – Walt Disney",
+    "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "Wednesday: Halfway to the weekend! Keep pushing.",
+    "Code never lies, comments sometimes do. – Ron Jeffries"
   ],
   "Thursday": [
-    "Fix the cause, not the symptom. – Steve Maguire"
+    "Fix the cause, not the symptom. – Steve Maguire",
+    "Knowledge is power. – Francis Bacon",
+    "The person who says it cannot be done should not interrupt the person who is doing it.",
+    "Quality is not an act, it is a habit. – Aristotle",
+    "Thursday is perhaps the worst day of the week. It exists as a reminder that the week has been going on too long.",
+    "Optimism is the faith that leads to achievement. – Helen Keller"
   ],
   "Friday": [
-    "Code is like humor. When you have to explain it, it’s bad. – Cory House"
+    "Code is like humor. When you have to explain it, it’s bad. – Cory House",
+    "Every day is a gift. – Unknown",
+    "Friday is a day to finish your goals for the week.",
+    "It's Friday! Time to celebrate the progress you've made.",
+    "The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt",
+    "Before software can be reusable it first has to be usable. – Ralph Johnson"
   ],
   "Saturday": [
-    "First, solve the problem. Then, write the code. – John Johnson"
+    "First, solve the problem. Then, write the code. – John Johnson",
+    "The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb",
+    "Saturday is a day for rest and reflection.",
+    "Take time to do what makes your soul happy.",
+    "Programming is the art of telling another human being what one wants the computer to do. – Donald Knuth",
+    "The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie"
   ],
   "Sunday": [
-    "Experience is the name everyone gives to their mistakes. – Oscar Wilde"
+    "Experience is the name everyone gives to their mistakes. – Oscar Wilde",
+    "Rest is not idleness. – John Lubbock",
+    "Sunday is the perfect day to refuel your soul and be grateful for each and every one of your blessings.",
+    "A Sunday well spent brings a week of content.",
+    "Talk is cheap. Show me the code. – Linus Torvalds",
+    "Computers are good at following instructions, but not at reading your mind. – Donald Knuth"
   ]
 }
