@@ -22,11 +22,7 @@ jobs:
         with:
           node-version: 18
 
-      # 1️⃣ تحديث المقولة (كوت + لون + log)
-      - name: Update Daily Quote
-        run: node scripts/update-quote.js
-
-      # 2️⃣ تحديث WakaTime
+      # 1️⃣ تحديث WakaTime
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
@@ -34,6 +30,10 @@ jobs:
           SECTION_NAME: waka
           TIME_RANGE: all_time
           LANG_COUNT: 30
+
+      # 2️⃣ تحديث المقولة (كوت + لون + log)
+      - name: Update Daily Quote
+        run: node scripts/update-quote.js
 
       # 3️⃣ Commit & Push (ملفات إضافية)
       - name: Commit & Push
