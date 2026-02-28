@@ -37,12 +37,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Friday is a day to finish your goals for the week.
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Programming is the art of telling another human being what one wants the computer to do. – Donald Knuth
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
