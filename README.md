@@ -40,12 +40,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ The secret of getting ahead is getting started. – Mark Twain
-<br/><sub>Monday Motivation</sub>
+⭐ Done is better than perfect. – Sheryl Sandberg
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
