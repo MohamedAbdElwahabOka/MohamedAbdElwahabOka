@@ -125,6 +125,9 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://github-readme-stats-ten-red-36.vercel.app/?username=MohamedAbdElwahabOka&amp;theme=algolia&amp;margin-w=10&amp;no-frame=true&amp;v=1" alt="GitHub Trophy" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAbdElwahabOka&amp;theme=algolia&amp;margin-w=10&amp;no-frame=true&amp;v=1" alt="GitHub Trophy" />
+</p>
 
 ---
 
