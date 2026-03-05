@@ -42,12 +42,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Wednesday: Halfway to the weekend! Keep pushing.
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Quality is not an act, it is a habit. – Aristotle
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
