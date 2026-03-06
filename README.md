@@ -181,4 +181,3 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif"/>
 </p>
-ازاي اطور من الريدمي دا اكتر تطوير
