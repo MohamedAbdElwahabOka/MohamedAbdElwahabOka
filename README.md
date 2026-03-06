@@ -43,12 +43,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Quality is not an act, it is a habit. – Aristotle
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Friday is a day to finish your goals for the week.
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
