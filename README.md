@@ -48,12 +48,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Tuesday is the day to remember that you can handle whatever this week throws at you.
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Keep your face always toward the sunshine—and shadows will fall behind you.
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
