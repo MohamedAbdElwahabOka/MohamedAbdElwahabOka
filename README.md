@@ -49,12 +49,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Keep your face always toward the sunshine—and shadows will fall behind you.
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Knowledge is power. – Francis Bacon
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
