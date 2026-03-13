@@ -50,12 +50,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Knowledge is power. – Francis Bacon
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Before software can be reusable it first has to be usable. – Ralph Johnson
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
