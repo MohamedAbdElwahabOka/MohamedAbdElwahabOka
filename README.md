@@ -51,12 +51,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Before software can be reusable it first has to be usable. – Ralph Johnson
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
