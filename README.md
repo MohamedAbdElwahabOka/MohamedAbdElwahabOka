@@ -55,12 +55,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ The only way to do great work is to love what you do. – Steve Jobs
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Code never lies, comments sometimes do. – Ron Jeffries
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
