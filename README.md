@@ -57,12 +57,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Fix the cause, not the symptom. – Steve Maguire
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
