@@ -58,12 +58,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Take time to do what makes your soul happy.
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
