@@ -65,12 +65,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Before software can be reusable it first has to be usable. – Ralph Johnson
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Programming is the art of telling another human being what one wants the computer to do. – Donald Knuth
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
