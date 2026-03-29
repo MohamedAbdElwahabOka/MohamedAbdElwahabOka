@@ -66,12 +66,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#61dafb">
-⭐ Programming is the art of telling another human being what one wants the computer to do. – Donald Knuth
-<br/><sub>Saturday Motivation</sub>
+⭐ Rest is not idleness. – John Lubbock
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
