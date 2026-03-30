@@ -67,12 +67,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#61dafb">
-⭐ Rest is not idleness. – John Lubbock
-<br/><sub>Sunday Motivation</sub>
+⭐ The best way to get started is to quit talking and begin doing. – Walt Disney
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
