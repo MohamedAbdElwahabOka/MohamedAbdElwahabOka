@@ -71,12 +71,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Thursday is perhaps the worst day of the week. It exists as a reminder that the week has been going on too long.
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Every day is a gift. – Unknown
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
