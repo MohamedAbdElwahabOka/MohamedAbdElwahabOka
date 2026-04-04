@@ -72,12 +72,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Every day is a gift. – Unknown
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Saturday is a day for rest and reflection.
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
