@@ -73,12 +73,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ Saturday is a day for rest and reflection.
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Sunday is the perfect day to refuel your soul and be grateful for each and every one of your blessings.
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
