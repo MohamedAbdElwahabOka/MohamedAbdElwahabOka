@@ -74,12 +74,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#c084fc">
-⭐ Sunday is the perfect day to refuel your soul and be grateful for each and every one of your blessings.
-<br/><sub>Sunday Motivation</sub>
+⭐ Mondays are for fresh starts.
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
