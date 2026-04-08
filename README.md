@@ -76,12 +76,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#61dafb">
-⭐ Make it work, then make it better. – Kent Beck
-<br/><sub>Tuesday Motivation</sub>
+⭐ Wednesday: Halfway to the weekend! Keep pushing.
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
