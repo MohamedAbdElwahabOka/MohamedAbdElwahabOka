@@ -79,12 +79,14 @@ Text         0 secs                ░░░░░░░░░░░░░░░
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ It's Friday! Time to celebrate the progress you've made.
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ First, solve the problem. Then, write the code. – John Johnson
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
