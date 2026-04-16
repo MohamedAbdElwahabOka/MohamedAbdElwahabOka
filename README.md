@@ -86,12 +86,14 @@ Text             0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ Wednesday: Halfway to the weekend! Keep pushing.
-<br/><sub>Wednesday Motivation</sub>
+⭐ Fix the cause, not the symptom. – Steve Maguire
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
