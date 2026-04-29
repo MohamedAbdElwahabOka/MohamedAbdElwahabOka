@@ -102,12 +102,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ Focus on being productive instead of busy.
-<br/><sub>Tuesday Motivation</sub>
+⭐ Innovation distinguishes between a leader and a follower. – Steve Jobs
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
