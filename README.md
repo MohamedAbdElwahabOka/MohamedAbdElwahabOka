@@ -111,12 +111,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ The person who says it cannot be done should not interrupt the person who is doing it.
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Every day is a gift. – Unknown
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
