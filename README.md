@@ -112,12 +112,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Every day is a gift. – Unknown
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ First, solve the problem. Then, write the code. – John Johnson
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
