@@ -113,12 +113,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ First, solve the problem. Then, write the code. – John Johnson
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ A Sunday well spent brings a week of content.
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
