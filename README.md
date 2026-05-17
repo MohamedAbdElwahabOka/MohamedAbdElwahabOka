@@ -121,12 +121,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Take time to do what makes your soul happy.
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Rest is not idleness. – John Lubbock
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
