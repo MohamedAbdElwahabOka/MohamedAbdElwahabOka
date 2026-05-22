@@ -126,12 +126,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Fix the cause, not the symptom. – Steve Maguire
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Every day is a gift. – Unknown
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
