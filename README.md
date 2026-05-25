@@ -128,12 +128,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ The best way to get started is to quit talking and begin doing. – Walt Disney
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
