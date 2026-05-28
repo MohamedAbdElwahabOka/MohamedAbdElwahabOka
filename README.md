@@ -131,12 +131,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ Keep your face always toward the sunshine—and shadows will fall behind you.
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ The person who says it cannot be done should not interrupt the person who is doing it.
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
