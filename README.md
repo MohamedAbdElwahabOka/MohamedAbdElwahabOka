@@ -135,12 +135,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Talk is cheap. Show me the code. – Linus Torvalds
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ The secret of getting ahead is getting started. – Mark Twain
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
