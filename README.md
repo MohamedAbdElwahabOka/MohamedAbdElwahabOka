@@ -136,12 +136,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ The secret of getting ahead is getting started. – Mark Twain
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ The only way to do great work is to love what you do. – Steve Jobs
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
