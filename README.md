@@ -137,12 +137,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ The only way to do great work is to love what you do. – Steve Jobs
-<br/><sub>Tuesday Motivation</sub>
+⭐ Innovation distinguishes between a leader and a follower. – Steve Jobs
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
