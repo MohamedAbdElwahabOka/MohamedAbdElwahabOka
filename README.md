@@ -138,12 +138,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Innovation distinguishes between a leader and a follower. – Steve Jobs
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Knowledge is power. – Francis Bacon
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
