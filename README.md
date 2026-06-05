@@ -139,12 +139,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ Knowledge is power. – Francis Bacon
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
