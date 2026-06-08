@@ -141,12 +141,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Mondays are for fresh starts.
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
