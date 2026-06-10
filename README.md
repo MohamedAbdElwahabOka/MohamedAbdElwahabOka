@@ -143,12 +143,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Done is better than perfect. – Sheryl Sandberg
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ The way to get started is to quit talking and begin doing. – Walt Disney
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
