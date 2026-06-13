@@ -146,12 +146,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
