@@ -151,12 +151,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ Innovation distinguishes between a leader and a follower. – Steve Jobs
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Thursday is perhaps the worst day of the week. It exists as a reminder that the week has been going on too long.
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
