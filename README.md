@@ -152,12 +152,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#c084fc">
-⭐ Thursday is perhaps the worst day of the week. It exists as a reminder that the week has been going on too long.
-<br/><sub>Thursday Motivation</sub>
+⭐ Code is like humor. When you have to explain it, it’s bad. – Cory House
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
