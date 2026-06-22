@@ -155,12 +155,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ A Sunday well spent brings a week of content.
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ The secret of getting ahead is getting started. – Mark Twain
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
