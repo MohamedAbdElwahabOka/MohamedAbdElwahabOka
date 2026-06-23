@@ -156,12 +156,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ The secret of getting ahead is getting started. – Mark Twain
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Tuesday is the day to remember that you can handle whatever this week throws at you.
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
