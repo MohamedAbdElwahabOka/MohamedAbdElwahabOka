@@ -162,12 +162,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Rest is not idleness. – John Lubbock
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Mondays are for fresh starts.
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
