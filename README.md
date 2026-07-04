@@ -168,12 +168,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ It's Friday! Time to celebrate the progress you've made.
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Saturday is a day for rest and reflection.
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
