@@ -169,12 +169,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ Saturday is a day for rest and reflection.
-<br/><sub>Saturday Motivation</sub>
+⭐ Rest is not idleness. – John Lubbock
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
