@@ -171,12 +171,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Amateurs sit and wait for inspiration, the rest of us just get up and go to work. – Stephen King
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Make it work, then make it better. – Kent Beck
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
