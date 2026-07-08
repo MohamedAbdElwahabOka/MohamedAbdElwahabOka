@@ -172,12 +172,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ Make it work, then make it better. – Kent Beck
-<br/><sub>Tuesday Motivation</sub>
+⭐ Code never lies, comments sometimes do. – Ron Jeffries
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
