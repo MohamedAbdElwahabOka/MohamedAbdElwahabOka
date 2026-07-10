@@ -174,12 +174,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Optimism is the faith that leads to achievement. – Helen Keller
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ It's Friday! Time to celebrate the progress you've made.
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
