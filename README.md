@@ -175,12 +175,14 @@ XML              0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ It's Friday! Time to celebrate the progress you've made.
-<br/><sub>Friday Motivation</sub>
+⭐ Programming is the art of telling another human being what one wants the computer to do. – Donald Knuth
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
