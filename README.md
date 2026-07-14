@@ -180,12 +180,14 @@ PowerShell       0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Your Monday morning thoughts set the tone for your whole week.
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Done is better than perfect. – Sheryl Sandberg
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
