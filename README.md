@@ -181,12 +181,14 @@ PowerShell       0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Done is better than perfect. – Sheryl Sandberg
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Code never lies, comments sometimes do. – Ron Jeffries
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
