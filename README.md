@@ -184,12 +184,14 @@ Java Properties   0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Quality is not an act, it is a habit. – Aristotle
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ It's Friday! Time to celebrate the progress you've made.
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
