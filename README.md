@@ -186,12 +186,14 @@ Java Properties   0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#61dafb">
-⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
-<br/><sub>Saturday Motivation</sub>
+⭐ Rest is not idleness. – John Lubbock
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
