@@ -187,12 +187,14 @@ Java Properties   0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ Rest is not idleness. – John Lubbock
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Amateurs sit and wait for inspiration, the rest of us just get up and go to work. – Stephen King
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
