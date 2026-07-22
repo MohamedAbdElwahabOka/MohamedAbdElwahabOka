@@ -189,12 +189,14 @@ PowerShell        0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Code never lies, comments sometimes do. – Ron Jeffries
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
