@@ -190,12 +190,14 @@ PowerShell        0 secs                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Code never lies, comments sometimes do. – Ron Jeffries
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Quality is not an act, it is a habit. – Aristotle
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
