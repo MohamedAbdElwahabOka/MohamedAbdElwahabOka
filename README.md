@@ -194,12 +194,14 @@ Inno Setup        1 min                 ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ Computers are good at following instructions, but not at reading your mind. – Donald Knuth
-<br/><sub>Sunday Motivation</sub>
+⭐ Mondays are for fresh starts.
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
