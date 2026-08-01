@@ -199,12 +199,14 @@ Inno Setup        1 min                 ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Code is like humor. When you have to explain it, it’s bad. – Cory House
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
