@@ -201,12 +201,14 @@ Inno Setup        1 min                 ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Experience is the name everyone gives to their mistakes. – Oscar Wilde
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ The best way to get started is to quit talking and begin doing. – Walt Disney
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
