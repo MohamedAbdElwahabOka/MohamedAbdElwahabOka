@@ -202,12 +202,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ The best way to get started is to quit talking and begin doing. – Walt Disney
-<br/><sub>Monday Motivation</sub>
+⭐ Done is better than perfect. – Sheryl Sandberg
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
