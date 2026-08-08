@@ -206,12 +206,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ It's Friday! Time to celebrate the progress you've made.
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
