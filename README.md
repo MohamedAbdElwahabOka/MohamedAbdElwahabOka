@@ -207,12 +207,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ A Sunday well spent brings a week of content.
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
