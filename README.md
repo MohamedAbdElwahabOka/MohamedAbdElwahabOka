@@ -208,12 +208,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#facc15">
-⭐ A Sunday well spent brings a week of content.
-<br/><sub>Sunday Motivation</sub>
+⭐ Start where you are. Use what you have. Do what you can. – Arthur Ashe
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
