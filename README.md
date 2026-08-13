@@ -211,12 +211,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Wednesday: Halfway to the weekend! Keep pushing.
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#61dafb">
+⭐ Fix the cause, not the symptom. – Steve Maguire
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
