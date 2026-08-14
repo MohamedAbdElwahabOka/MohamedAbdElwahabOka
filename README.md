@@ -212,12 +212,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#61dafb">
-⭐ Fix the cause, not the symptom. – Steve Maguire
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Before software can be reusable it first has to be usable. – Ralph Johnson
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
