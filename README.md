@@ -214,12 +214,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Experience is the name everyone gives to their mistakes. – Oscar Wilde
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
