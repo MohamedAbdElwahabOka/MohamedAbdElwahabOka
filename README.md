@@ -215,12 +215,14 @@ TOML              2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ Experience is the name everyone gives to their mistakes. – Oscar Wilde
-<br/><sub>Sunday Motivation</sub>
+⭐ The best way to get started is to quit talking and begin doing. – Walt Disney
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
