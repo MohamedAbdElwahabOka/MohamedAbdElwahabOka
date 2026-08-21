@@ -219,12 +219,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Optimism is the faith that leads to achievement. – Helen Keller
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Code is like humor. When you have to explain it, it’s bad. – Cory House
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
