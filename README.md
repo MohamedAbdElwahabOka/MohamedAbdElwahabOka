@@ -222,12 +222,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ Rest is not idleness. – John Lubbock
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ The secret of getting ahead is getting started. – Mark Twain
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
