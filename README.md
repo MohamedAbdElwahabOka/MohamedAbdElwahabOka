@@ -223,12 +223,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ The secret of getting ahead is getting started. – Mark Twain
-<br/><sub>Monday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill
+<br/><sub>Tuesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
