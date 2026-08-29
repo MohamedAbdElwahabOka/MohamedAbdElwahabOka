@@ -227,12 +227,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ Friday is a day to finish your goals for the week.
-<br/><sub>Friday Motivation</sub>
+⭐ The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
