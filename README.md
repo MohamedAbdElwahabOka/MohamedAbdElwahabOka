@@ -231,12 +231,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#c084fc">
-⭐ Make it work, then make it better. – Kent Beck
-<br/><sub>Tuesday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Wednesday: Halfway to the weekend! Keep pushing.
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
