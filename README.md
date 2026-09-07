@@ -236,12 +236,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ Rest is not idleness. – John Lubbock
-<br/><sub>Sunday Motivation</sub>
+⭐ Your Monday morning thoughts set the tone for your whole week.
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
