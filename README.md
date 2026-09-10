@@ -239,12 +239,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#f472b6">
-⭐ Code never lies, comments sometimes do. – Ron Jeffries
-<br/><sub>Wednesday Motivation</sub>
+⭐ The person who says it cannot be done should not interrupt the person who is doing it.
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
