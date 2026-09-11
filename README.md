@@ -240,12 +240,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ The person who says it cannot be done should not interrupt the person who is doing it.
-<br/><sub>Thursday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Code is like humor. When you have to explain it, it’s bad. – Cory House
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
