@@ -242,12 +242,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Computers are good at following instructions, but not at reading your mind. – Donald Knuth
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
