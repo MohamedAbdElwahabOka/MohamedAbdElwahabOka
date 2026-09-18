@@ -247,12 +247,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#6bd6ad">
-⭐ Fix the cause, not the symptom. – Steve Maguire
-<br/><sub>Thursday Motivation</sub>
+⭐ Friday is a day to finish your goals for the week.
+<br/><sub>Friday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
