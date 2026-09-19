@@ -248,12 +248,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Friday is a day to finish your goals for the week.
-<br/><sub>Friday Motivation</sub>
+<h3 align="center" style="color:#c084fc">
+⭐ Saturday is a day for rest and reflection.
+<br/><sub>Saturday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
