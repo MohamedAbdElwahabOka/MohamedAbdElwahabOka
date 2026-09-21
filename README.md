@@ -250,12 +250,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#f472b6">
-⭐ Sunday is the perfect day to refuel your soul and be grateful for each and every one of your blessings.
-<br/><sub>Sunday Motivation</sub>
+<h3 align="center" style="color:#6bd6ad">
+⭐ Start where you are. Use what you have. Do what you can. – Arthur Ashe
+<br/><sub>Monday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
