@@ -253,12 +253,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#6bd6ad">
-⭐ Wednesday: Halfway to the weekend! Keep pushing.
-<br/><sub>Wednesday Motivation</sub>
+<h3 align="center" style="color:#facc15">
+⭐ The person who says it cannot be done should not interrupt the person who is doing it.
+<br/><sub>Thursday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
