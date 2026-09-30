@@ -259,12 +259,14 @@ XML               2 mins                ░░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
 <h3 align="center" style="color:#61dafb">
-⭐ Tuesday is the day to remember that you can handle whatever this week throws at you.
-<br/><sub>Tuesday Motivation</sub>
+⭐ Innovation distinguishes between a leader and a follower. – Steve Jobs
+<br/><sub>Wednesday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
