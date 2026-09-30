@@ -71,10 +71,10 @@ JavaScript        26 hrs 40 mins        █░░░░░░░░░░░░�
 
 <table>
   <tr>
-    <td align="center"><h2>40d</h2><sub>🔥 Current streak</sub></td>
-    <td align="center"><h2>102d</h2><sub>🏆 Longest streak</sub></td>
+    <td align="center"><h2>115d</h2><sub>🔥 Current streak</sub></td>
+    <td align="center"><h2>115d</h2><sub>🏆 Longest streak</sub></td>
     <td align="center"><h2>964</h2><sub>📅 Last 30 days</sub></td>
-    <td align="center"><h2>471</h2><sub>🗓️ Active days</sub></td>
+    <td align="center"><h2>476</h2><sub>🗓️ Active days</sub></td>
     <td align="center"><h2>3,294</h2><sub>🚀 Total contributions</sub></td>
     <td align="center"><h2>34</h2><sub>👥 Followers</sub></td>
   </tr>
@@ -90,7 +90,7 @@ JavaScript        26 hrs 40 mins        █░░░░░░░░░░░░�
     <td align="center"><h2>174</h2><sub>🔀 Pull requests</sub></td>
     <td align="center"><h2>41</h2><sub>🐛 Issues</sub></td>
     <td align="center"><h2>1,776</h2><sub>🔒 Private contributions</sub></td>
-    <td align="center"><h2>86</h2><sub>📦 Public repos</sub></td>
+    <td align="center"><h2>76</h2><sub>📦 Public repos</sub></td>
     <td align="center"><h2>6</h2><sub>⭐ Stars</sub></td>
   </tr>
 </table>
@@ -111,8 +111,14 @@ JavaScript        26 hrs 40 mins        █░░░░░░░░░░░░�
 
 ---
 
+
 <!-- QUOTE:START -->
+<h3 align="center" style="color:#61dafb">
+⭐ Simplicity is the soul of efficiency. – Austin Freeman
+<br/><sub>Wednesday Motivation</sub>
+</h3>
 <!-- QUOTE:END -->
+
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/mohamedoka"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
