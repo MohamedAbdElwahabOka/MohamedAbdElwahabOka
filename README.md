@@ -47,7 +47,7 @@ I build production web platforms end to end, with a focus on clean architecture,
 | 📚 [**Library Management API**](https://github.com/MohamedAbdElwahabOka/Library-Management-System-RESTful-API) | RESTful API for books and borrowing. | Java, Spring Boot, PostgreSQL |
 | 🧾 [**logex**](https://github.com/MohamedAbdElwahabOka/logex) | Log extraction tooling. | TypeScript |
 
-## ⏱️ Where My Time Goes (last 7 days)
+## ⏱️ Where My Time Goes
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -57,15 +57,26 @@ I build production web platforms end to end, with a focus on clean architecture,
 <!-- STATS:START -->
 <div align="center">
 
-| 🔥 Current streak | 🏆 Longest streak | 📅 Last 30 days | 📈 Past year |
-|:---:|:---:|:---:|:---:|
-| **40** days | **102** days | **964** contributions | **2423** contributions |
+<table>
+  <tr>
+    <td align="center"><h2>40d</h2><sub>🔥 Current streak</sub></td>
+    <td align="center"><h2>102d</h2><sub>🏆 Longest streak</sub></td>
+    <td align="center"><h2>964</h2><sub>📅 Last 30 days</sub></td>
+    <td align="center"><h2>471</h2><sub>🗓️ Active days</sub></td>
+    <td align="center"><h2>3,294</h2><sub>🚀 Total contributions</sub></td>
+    <td align="center"><h2>34</h2><sub>👥 Followers</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><h2>1,206</h2><sub>💾 Commits</sub></td>
+    <td align="center"><h2>174</h2><sub>🔀 Pull requests</sub></td>
+    <td align="center"><h2>41</h2><sub>🐛 Issues</sub></td>
+    <td align="center"><h2>1,776</h2><sub>🔒 Private contributions</sub></td>
+    <td align="center"><h2>86</h2><sub>📦 Public repos</sub></td>
+    <td align="center"><h2>6</h2><sub>⭐ Stars</sub></td>
+  </tr>
+</table>
 
-| 💾 Commits | 🔀 Pull requests | 🐛 Issues | 📦 Public repos | ⭐ Stars | 👥 Followers |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 549 | 65 | 30 | 86 | 6 | 34 |
-
-<sub>Updated daily · 2026-09-30</sub>
+<sub>All-time since 2021 · counted by GitHub (public activity + private contributions) · updated daily 2026-09-30</sub>
 
 </div>
 <!-- STATS:END -->
