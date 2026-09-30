@@ -91,6 +91,8 @@ const fmt = n => n.toLocaleString("en-US");
   const block = `<!-- STATS:START -->
 <div align="center">
 
+<b>Activity</b>
+
 <table>
   <tr>
 ${cell("🔥", "Current streak", `${streak}d`)}
@@ -100,6 +102,13 @@ ${cell("🗓️", "Active days", fmt(activeDays))}
 ${cell("🚀", "Total contributions", fmt(t.total))}
 ${cell("👥", "Followers", fmt(u.followers.totalCount))}
   </tr>
+</table>
+
+<br/>
+
+<b>All time</b>
+
+<table>
   <tr>
 ${cell("💾", "Commits", fmt(t.commits))}
 ${cell("🔀", "Pull requests", fmt(t.prs))}

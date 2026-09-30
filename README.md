@@ -57,6 +57,8 @@ I build production web platforms end to end, with a focus on clean architecture,
 <!-- STATS:START -->
 <div align="center">
 
+<b>Activity</b>
+
 <table>
   <tr>
     <td align="center"><h2>40d</h2><sub>🔥 Current streak</sub></td>
@@ -66,6 +68,13 @@ I build production web platforms end to end, with a focus on clean architecture,
     <td align="center"><h2>3,294</h2><sub>🚀 Total contributions</sub></td>
     <td align="center"><h2>34</h2><sub>👥 Followers</sub></td>
   </tr>
+</table>
+
+<br/>
+
+<b>All time</b>
+
+<table>
   <tr>
     <td align="center"><h2>1,206</h2><sub>💾 Commits</sub></td>
     <td align="center"><h2>174</h2><sub>🔀 Pull requests</sub></td>
