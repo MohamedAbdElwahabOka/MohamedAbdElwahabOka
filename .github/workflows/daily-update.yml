@@ -28,12 +28,18 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: waka
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           LANG_COUNT: 6
 
       # 2️⃣ تحديث المقولة (كوت + لون + log)
       - name: Update Daily Quote
         run: node scripts/update-quote.js
+
+      # 2b) GitHub stats + streak (no external image services)
+      - name: Update GitHub Stats
+        run: node scripts/update-stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # 3️⃣ Commit & Push (ملفات إضافية)
       - name: Commit & Push

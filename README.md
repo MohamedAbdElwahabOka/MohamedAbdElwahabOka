@@ -47,21 +47,28 @@ I build production web platforms end to end, with a focus on clean architecture,
 | 📚 [**Library Management API**](https://github.com/MohamedAbdElwahabOka/Library-Management-System-RESTful-API) | RESTful API for books and borrowing. | Java, Spring Boot, PostgreSQL |
 | 🧾 [**logex**](https://github.com/MohamedAbdElwahabOka/logex) | Log extraction tooling. | TypeScript |
 
-## ⏱️ Where My Time Goes
+## ⏱️ Where My Time Goes (last 7 days)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdElwahabOka&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6bd6ad&icon_color=6bd6ad" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdElwahabOka&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6bd6ad" alt="Top languages" />
-</p>
+<!-- STATS:START -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAbdElwahabOka&bg_color=0d1117&color=6bd6ad&line=6bd6ad&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
-</p>
+| 🔥 Current streak | 🏆 Longest streak | 📅 Last 30 days | 📈 Past year |
+|:---:|:---:|:---:|:---:|
+| **40** days | **102** days | **964** contributions | **2423** contributions |
+
+| 💾 Commits | 🔀 Pull requests | 🐛 Issues | 📦 Public repos | ⭐ Stars | 👥 Followers |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 549 | 65 | 30 | 86 | 6 | 34 |
+
+<sub>Updated daily · 2026-09-30</sub>
+
+</div>
+<!-- STATS:END -->
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
