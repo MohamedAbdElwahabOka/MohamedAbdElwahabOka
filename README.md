@@ -50,6 +50,14 @@ I build production web platforms end to end, with a focus on clean architecture,
 ## ⏱️ Where My Time Goes
 
 <!--START_SECTION:waka-->
+```txt
+TypeScript        221 hrs 28 mins       █████████▓░░░░░░░░░░░░░░░   38.14 %
+Markdown          139 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+Other             45 hrs 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+JSON              35 hrs 15 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+YAML              29 hrs 21 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+JavaScript        26 hrs 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+```
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats
@@ -84,8 +92,6 @@ I build production web platforms end to end, with a focus on clean architecture,
     <td align="center"><h2>6</h2><sub>⭐ Stars</sub></td>
   </tr>
 </table>
-
-<sub>All-time since 2021 · counted by GitHub (public activity + private contributions) · updated daily 2026-09-30</sub>
 
 </div>
 <!-- STATS:END -->

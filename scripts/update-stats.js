@@ -119,8 +119,6 @@ ${cell("⭐", "Stars", fmt(stars))}
   </tr>
 </table>
 
-<sub>All-time since ${startYear} · counted by GitHub (public activity + private contributions) · updated daily ${today}</sub>
-
 </div>
 <!-- STATS:END -->`;
 
