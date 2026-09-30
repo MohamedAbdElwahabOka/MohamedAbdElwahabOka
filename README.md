@@ -1,8 +1,6 @@
 <div align="center">
 
-# Mohamed Abd Elwahab
-
-**Software Engineer @ [Mokhtalef-ai](https://github.com/Mokhtalef-ai)** · Egypt 🇪🇬
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6bd6ad&height=180&section=header&text=Mohamed%20Abd%20Elwahab&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20Mokhtalef-ai&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&color=6BD6AD&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;Clean+architecture+%7C+Scalable+backends;Healthcare+%26+FHIR+APIs;Next.js+%C2%B7+NestJS+%C2%B7+TypeScript" alt="Typing animation" />
 
@@ -15,6 +13,10 @@
 ---
 
 ## 👨‍💻 About
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding" />
+</p>
 
 I build production web platforms end to end, with a focus on clean architecture, type safety and maintainable backends.
 
@@ -58,6 +60,10 @@ I build production web platforms end to end, with a focus on clean architecture,
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAbdElwahabOka&bg_color=0d1117&color=6bd6ad&line=6bd6ad&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
@@ -76,3 +82,5 @@ I build production web platforms end to end, with a focus on clean architecture,
 <p align="center">
   <a href="https://www.buymeacoffee.com/mohamedoka"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6bd6ad&height=100&section=footer" width="100%" alt="footer" />
