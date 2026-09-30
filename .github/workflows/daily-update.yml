@@ -29,7 +29,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: waka
           TIME_RANGE: all_time
-          LANG_COUNT: 30
+          LANG_COUNT: 6
 
       # 2️⃣ تحديث المقولة (كوت + لون + log)
       - name: Update Daily Quote
