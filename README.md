@@ -52,12 +52,12 @@ I build production web platforms end to end, with a focus on clean architecture,
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        241 hrs               █████████▓░░░░░░░░░░░░░░░   38.36 %
-Markdown          156 hrs 46 mins       ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-Other             48 hrs 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-JSON              36 hrs 49 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-YAML              29 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JavaScript        27 hrs 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+TypeScript        243 hrs 20 mins       █████████▓░░░░░░░░░░░░░░░   38.31 %
+Markdown          158 hrs 59 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+Other             50 hrs 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+JSON              36 hrs 58 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+YAML              29 hrs 45 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JavaScript        28 hrs 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
