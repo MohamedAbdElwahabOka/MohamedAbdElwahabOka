@@ -71,12 +71,12 @@ YAML              30 hrs 53 mins        █░░░░░░░░░░░░�
 
 <table>
   <tr>
-    <td align="center"><h2>145d</h2><sub>🔥 Current streak</sub></td>
-    <td align="center"><h2>145d</h2><sub>🏆 Longest streak</sub></td>
-    <td align="center"><h2>822</h2><sub>📅 Last 30 days</sub></td>
-    <td align="center"><h2>505</h2><sub>🗓️ Active days</sub></td>
-    <td align="center"><h2>4,449</h2><sub>🚀 Total contributions</sub></td>
-    <td align="center"><h2>32</h2><sub>👥 Followers</sub></td>
+    <td align="center"><h2>146d</h2><sub>🔥 Current streak</sub></td>
+    <td align="center"><h2>146d</h2><sub>🏆 Longest streak</sub></td>
+    <td align="center"><h2>772</h2><sub>📅 Last 30 days</sub></td>
+    <td align="center"><h2>506</h2><sub>🗓️ Active days</sub></td>
+    <td align="center"><h2>4,450</h2><sub>🚀 Total contributions</sub></td>
+    <td align="center"><h2>31</h2><sub>👥 Followers</sub></td>
   </tr>
 </table>
 
@@ -86,7 +86,7 @@ YAML              30 hrs 53 mins        █░░░░░░░░░░░░�
 
 <table>
   <tr>
-    <td align="center"><h2>1,244</h2><sub>💾 Commits</sub></td>
+    <td align="center"><h2>1,245</h2><sub>💾 Commits</sub></td>
     <td align="center"><h2>175</h2><sub>🔀 Pull requests</sub></td>
     <td align="center"><h2>43</h2><sub>🐛 Issues</sub></td>
     <td align="center"><h2>2,890</h2><sub>🔒 Private contributions</sub></td>
@@ -143,12 +143,14 @@ YAML              30 hrs 53 mins        █░░░░░░░░░░░░�
 
 
 
+
 <!-- QUOTE:START -->
-<h3 align="center" style="color:#facc15">
-⭐ The only way to learn a new programming language is by writing programs in it. – Dennis Ritchie
-<br/><sub>Saturday Motivation</sub>
+<h3 align="center" style="color:#f472b6">
+⭐ Experience is the name everyone gives to their mistakes. – Oscar Wilde
+<br/><sub>Sunday Motivation</sub>
 </h3>
 <!-- QUOTE:END -->
+
 
 
 
